@@ -1,4 +1,4 @@
-## product name - jit interpreter
+## jit interpreter
 
 
 ### what is this?
