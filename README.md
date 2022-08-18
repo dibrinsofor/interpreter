@@ -1,4 +1,4 @@
-## product name - akwuko ufe
+## product name - jit interpreter
 
 
 ### what is this?
